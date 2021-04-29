@@ -1,0 +1,8 @@
+ Git Commands for version control
+ 
+ // check git installed or not
+ git --version
+ 
+ //git first command
+ git status
+ 
